@@ -19,7 +19,11 @@ const products = [
   { id: 3, name: 'USB-C Hub', price: 49.99, category: 'electronics', image: 'hub.svg', stock: 25 },
   { id: 4, name: 'Monitor Stand', price: 89.99, category: 'accessories', image: 'stand.svg', stock: 12 },
   { id: 5, name: 'Webcam HD', price: 69.99, category: 'electronics', image: 'webcam.svg', stock: 20 },
-  { id: 6, name: 'Mouse Pad XL', price: 24.99, category: 'accessories', image: 'mousepad.svg', stock: 50 }
+  { id: 6, name: 'Mouse Pad XL', price: 24.99, category: 'accessories', image: 'mousepad.svg', stock: 50 },
+  {id: 7, name: 'Bluetooth Speaker', price: 99.99, category: 'electronics', image: 'speaker.svg', stock: 10 },
+  {id: 8, name: 'Laptop Sleeve', price: 39.99, category: 'accessories', image: 'sleeve.svg', stock: 30 },
+  {id: 9, name: 'Smartwatch', price: 199.99, category: 'electronics', image: 'smartwatch.svg', stock: 5 },
+  {id: 10, name: 'Desk Organizer', price: 29.99, category: 'accessories', image: 'organizer.svg', stock: 40 }
 ];
 
 // Session-based storage (carts and users per session)
