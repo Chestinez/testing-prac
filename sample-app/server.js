@@ -23,7 +23,12 @@ const products = [
   {id: 7, name: 'Bluetooth Speaker', price: 99.99, category: 'electronics', image: 'speaker.svg', stock: 10 },
   {id: 8, name: 'Laptop Sleeve', price: 39.99, category: 'accessories', image: 'sleeve.svg', stock: 30 },
   {id: 9, name: 'Smartwatch', price: 199.99, category: 'electronics', image: 'smartwatch.svg', stock: 5 },
-  {id: 10, name: 'Desk Organizer', price: 29.99, category: 'accessories', image: 'organizer.svg', stock: 40 }
+  {id: 10, name: 'Desk Organizer', price: 29.99, category: 'accessories', image: 'organizer.svg', stock: 40 },
+  {id: 11, name: 'Portable Charger', price: 59.99, category: 'electronics', image: 'charger.svg', stock: 18 },
+  {id: 12, name: 'Noise-Cancelling Earbuds', price: 149.99, category: 'electronics', image: 'earbuds.svg', stock: 7 },
+  {id: 13, name: 'Ergonomic Chair', price: 299.99, category: 'furniture', image: 'chair.svg', stock: 4 },
+  {id: 14, name: 'Standing Desk Converter', price: 199.99, category: 'furniture', image: 'desk_converter.svg', stock: 6 },
+  {id: 15, name: 'LED Desk Lamp', price: 49.99, category: 'accessories', image: 'lamp.svg', stock: 22 }
 ];
 
 // Session-based storage (carts and users per session)
